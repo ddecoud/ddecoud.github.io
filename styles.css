@@ -6,7 +6,7 @@
 
 h1, h2, p, ul {
   text-align: center;
-  color: brown;
+  text-color: brown;
 }
 div {
   width: 300px;
