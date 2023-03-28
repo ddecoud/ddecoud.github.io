@@ -1,15 +1,15 @@
-body {
+body{
   /*
   background-color: burlywood;
   */
 }
 
-h1, h2, p, ul {
+h1, h2, p, ul{
   text-align: center;
   color: brown;
 }
 
-div {
+div{
   width: 300px;
   background-color: LightCoral;
 }
