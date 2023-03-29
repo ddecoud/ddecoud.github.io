@@ -5,10 +5,12 @@ body{
 h1{
   text-transform: uppercase;
   font-size: calc(1.725rem + 5.7vw);
+  font-family: fantasy
 }
 
 h2, p, ul, li{
   color: DarkSlateGray;
+  font-family: sans-serif
 }
 
 div{
