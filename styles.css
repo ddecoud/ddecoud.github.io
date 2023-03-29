@@ -17,3 +17,19 @@ div{
   width: 80%;
   background-color: LightCoral;
 }
+
+a{
+  color:DarkSlateGray;
+}
+
+a:hover{
+  color:Bisque;
+}
+
+a:acive{
+  color:Bisque;
+}
+
+a:visited{
+  color:Bisque;
+}
