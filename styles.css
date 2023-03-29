@@ -2,7 +2,12 @@ body{
   background-color: Bisque;
 }
 
-h1, h2, p, ul, li{
+h1{
+  text-transform: uppercase;
+  font-size: calc(1.725rem + 5.7vw);
+}
+
+h2, p, ul, li{
   text-align: center;
   color: DarkSlateGray;
 }
