@@ -10,4 +10,6 @@ h1, h2, p, ul, li{
 div{
   width: 80%;
   background-color: LightCoral;
+  margin-left: auto;
+  margin-right: auto;
 }
