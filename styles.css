@@ -5,7 +5,7 @@ body{
 h1{
   text-transform: uppercase;
   font-size: calc(1.725rem + 5.7vw);
-  font-family: fantasy
+  font-family: Impact;
 }
 
 h2, p, ul, li{
