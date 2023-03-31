@@ -1,35 +1,66 @@
 body{
-  background-color: Bisque;
+  background-color: #fbf0db;
 }
 
 h1{
   text-transform: uppercase;
+  color: #9a5b5f;
   font-size: calc(1.725rem + 5.7vw);
   font-family: Impact;
+  text-align: center;
+  margin-left:  100px;
 }
 
-h2, p, ul, li{
-  color: DarkSlateGray;
-  font-family: sans-serif
+h2{
+  text-transform: uppercase;
+  color: #37393a;
+  font-family: Impact;
+  font-size: 80px;
+  text-align: center;
+  margin-left:  100px;
 }
 
-div{
-  width: 80%;
-  background-color: LightCoral;
+p{
+  color: #37393a;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left:  100px;
 }
+
+
+
+
+.sidebar{
+  background: #eea990;
+  width: 250px;
+  padding: 10px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+  color: #f9e4dc;
+  font-family:Impact;
+  position: fixed;
+}
+.first, .second, .third, .fourth, .fifth{
+  padding: 20px;
+  font-size: 20px;
+  letter-spacing:1px;
+
+  }
 
 a{
-  color:DarkSlateGray;
+  color:#9a5b5f;
 }
 
-a:hover{
-  color:Bisque;
+a:hover, :active{
+  color:#F9E4DC;
 }
 
 a:acive{
-  color:Bisque;
+  color:#F9E4DC;
 }
 
 a:visited{
-  color:Bisque;
+  color:#AC7276;
 }
